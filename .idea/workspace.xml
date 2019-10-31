@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fbb1719a-e6d3-406a-a11f-b058e9ffa4fb" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pt/ulusofona/aed/songsExpert/Artista.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pt/ulusofona/aed/songsExpert/TemaMusical.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="157">
+              <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pt/ulusofona/aed/songsExpert/AuxObjects.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="33" column="16" lean-forward="true" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="16" />
+              <folding>
+                <element signature="class#Similars#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pt/ulusofona/aed/songsExpert/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="155" column="41" lean-forward="true" selection-start-line="155" selection-start-column="41" selection-end-line="155" selection-end-column="41" />
+              <folding>
+                <element signature="method#selectionSort#0;class#Main#0" />
+                <element signature="method#selectionSortAno#0;class#Main#0" />
+                <element signature="method#selectionSortWordCounter#0;class#Main#0" />
+                <element signature="method#selectionSortSimilarCounter#0;class#Main#0" />
+                <element signature="method#leitura#0;class#Main#0" />
+                <element signature="method#cleanup#0;class#Main#0" />
+                <element signature="method#processaArtistas#0;class#Main#0" />
+                <element signature="e#7998#8323#1" />
+                <element signature="method#processaSemelhantes#0;class#Main#0" />
+                <element signature="method#processaMusicas#0;class#Main#0" />
+                <element signature="method#lerFicheiros#0;class#Main#0" />
+                <element signature="method#lerFicheiros#1;class#Main#0" />
+                <element signature="method#askTheExpert#0;class#Main#0" />
+                <element signature="e#13685#13736#1" />
+                <element signature="e#13794#14034#1" />
+                <element signature="e#14098#14465#1" />
+                <element signature="e#14973#15290#1" />
+                <element signature="e#15570#17211#1" />
+                <element signature="e#16905#18735#1" />
+                <element signature="e#18800#19945#1" />
+                <element signature="e#20021#20849#1" />
+                <element signature="e#20913#21968#1" />
+                <element signature="e#22034#23221#1" />
+                <element signature="e#23285#25443#1" />
+                <element signature="e#25506#27347#1" />
+                <element signature="e#27407#29263#1" />
+                <element signature="e#29317#31146#1" />
+                <element signature="e#31324#32223#1" />
+                <element signature="e#32273#33890#1" />
+                <element signature="e#33940#34590#1" />
+                <element signature="method#main#0;class#Main#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pt/ulusofona/aed/songsExpert/TestsMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="95" column="29" selection-start-line="95" selection-start-column="29" selection-end-line="95" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#testarCountSongs#0;class#TestsMain#0" />
+                <element signature="method#testarSongsWithoutYear#0;class#TestsMain#0" />
+                <element signature="method#testarArtistsManySongs#0;class#TestsMain#0" />
+                <element signature="method#testarSongsManyArtists#0;class#TestsMain#0" />
+                <element signature="method#testeRandomInput#0;class#TestsMain#0" />
+                <element signature="method#testarCountUniqueTitles#0;class#TestsMain#0" />
+                <element signature="method#testarSongsWithArtists#0;class#TestsMain#0" />
+                <element signature="method#testarSongsWithArtists2#0;class#TestsMain#0" />
+                <element signature="method#testarTopArtistsSongsInYear#0;class#TestsMain#0" />
+                <element signature="method#testarUniqueSongsByArtists#0;class#TestsMain#0" />
+                <element signature="method#testarArtistsWordsInTitle#0;class#TestsMain#0" />
+                <element signature="method#testarArtistsWithLocation#0;class#TestsMain#0" />
+                <element signature="method#testarNArtistsWithLocation#0;class#TestsMain#0" />
+                <element signature="method#testarNArtistsWithLocation2#0;class#TestsMain#0" />
+                <element signature="method#testarFrequentWordTitlesLength#0;class#TestsMain#0" />
+                <element signature="method#testarArtistMostUniqueSongsAno#0;class#TestsMain#0" />
+                <element signature="method#testarTopNSimilars#0;class#TestsMain#0" />
+                <element signature="method#testeWhySoSimilar#0;class#TestsMain#0" />
+                <element signature="method#testInsert#0;class#TestsMain#0" />
+                <element signature="method#testInsertTwice#0;class#TestsMain#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test-files/TestsMain.java" />
+        <option value="$PROJECT_DIR$/src/pt/ulusofona/aed/songsExpert/TestRun.java" />
+        <option value="$PROJECT_DIR$/src/pt/ulusofona/aed/songsExpert/Artista.java" />
+        <option value="$PROJECT_DIR$/src/TestsMain.java" />
+        <option value="$PROJECT_DIR$/src/pt/ulusofona/aed/songsExpert/AuxObjects.java" />
+        <option value="$PROJECT_DIR$/src/pt/ulusofona/aed/songsExpert/TestsMain.java" />
+        <option value="$PROJECT_DIR$/src/pt/ulusofona/aed/songsExpert/Main.java" />
+        <option value="$PROJECT_DIR$/src/pt/ulusofona/aed/songsExpert/TemaMusical.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="160" />
+    <option name="y" value="45" />
+    <option name="width" value="1177" />
+    <option name="height" value="636" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="projeto aed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projeto aed" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projeto aed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projeto aed" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="projeto aed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="projeto aed" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="songsExpert" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560611422721" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pt.ulusofona.aed.songsExpert.Main" />
+      <module name="projeto aed" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pt.ulusofona.aed.songsExpert.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestsMain" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="projeto aed" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pt.ulusofona.aed.songsExpert.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pt.ulusofona.aed.songsExpert" />
+      <option name="MAIN_CLASS_NAME" value="pt.ulusofona.aed.songsExpert.TestsMain" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestsMain.insertTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="projeto aed" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pt.ulusofona.aed.songsExpert.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pt.ulusofona.aed.songsExpert" />
+      <option name="MAIN_CLASS_NAME" value="pt.ulusofona.aed.songsExpert.TestsMain" />
+      <option name="METHOD_NAME" value="insertTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestsMain.testInsertTwice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="projeto aed" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pt.ulusofona.aed.songsExpert.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pt.ulusofona.aed.songsExpert" />
+      <option name="MAIN_CLASS_NAME" value="pt.ulusofona.aed.songsExpert.TestsMain" />
+      <option name="METHOD_NAME" value="testInsertTwice" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestsMain.testarTemaMusicaltoString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="projeto aed" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pt.ulusofona.aed.songsExpert.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pt.ulusofona.aed.songsExpert" />
+      <option name="MAIN_CLASS_NAME" value="pt.ulusofona.aed.songsExpert.TestsMain" />
+      <option name="METHOD_NAME" value="testarTemaMusicaltoString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.TestsMain.testarTemaMusicaltoString" />
+        <item itemvalue="JUnit.TestsMain" />
+        <item itemvalue="JUnit.TestsMain.testInsertTwice" />
+        <item itemvalue="JUnit.TestsMain.insertTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbb1719a-e6d3-406a-a11f-b058e9ffa4fb" name="Default Changelist" comment="" />
+      <created>1558463458674</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558463458674</updated>
+      <workItem from="1558463464839" duration="1994000" />
+      <workItem from="1558466004264" duration="32000" />
+      <workItem from="1558534219346" duration="1737000" />
+      <workItem from="1558544725318" duration="414000" />
+      <workItem from="1558545263410" duration="275000" />
+      <workItem from="1558695940535" duration="84000" />
+      <workItem from="1558910267575" duration="58000" />
+      <workItem from="1559141989861" duration="407000" />
+      <workItem from="1559579368535" duration="3000" />
+      <workItem from="1559724789046" duration="5000" />
+      <workItem from="1560175085770" duration="125000" />
+      <workItem from="1560511489501" duration="4759000" />
+      <workItem from="1560606922065" duration="98000" />
+      <workItem from="1560607251441" duration="4209000" />
+      <workItem from="1560690712769" duration="31000" />
+      <workItem from="1560690844766" duration="22000" />
+      <workItem from="1560790468016" duration="1051000" />
+      <workItem from="1560851995524" duration="18000" />
+      <workItem from="1560871639400" duration="339000" />
+      <workItem from="1560872149462" duration="1269000" />
+      <workItem from="1560885245958" duration="5680000" />
+      <workItem from="1560940983469" duration="7573000" />
+      <workItem from="1560961425402" duration="143000" />
+      <workItem from="1560980096625" duration="202000" />
+      <workItem from="1561023561162" duration="4772000" />
+      <workItem from="1561038668239" duration="3505000" />
+      <workItem from="1561045763519" duration="101000" />
+      <workItem from="1561046082434" duration="1779000" />
+      <workItem from="1561051813704" duration="215000" />
+      <workItem from="1561052129238" duration="205000" />
+      <workItem from="1561101788366" duration="270000" />
+      <workItem from="1561107171056" duration="3875000" />
+      <workItem from="1561129371973" duration="23000" />
+      <workItem from="1561206843236" duration="1051000" />
+      <workItem from="1561216105806" duration="1518000" />
+      <workItem from="1561237956196" duration="949000" />
+      <workItem from="1561295423450" duration="68000" />
+      <workItem from="1561305658520" duration="266000" />
+      <workItem from="1561306044727" duration="564000" />
+      <workItem from="1561454131366" duration="3855000" />
+      <workItem from="1561467874553" duration="10935000" />
+      <workItem from="1561485052080" duration="609000" />
+      <workItem from="1561492194541" duration="191000" />
+      <workItem from="1561495992813" duration="471000" />
+      <workItem from="1561538594238" duration="322000" />
+      <workItem from="1561539538030" duration="7993000" />
+      <workItem from="1561637312504" duration="101000" />
+      <workItem from="1561647572448" duration="10000" />
+      <workItem from="1561715986123" duration="42000" />
+      <workItem from="1561728505750" duration="432000" />
+      <workItem from="1561798050102" duration="1152000" />
+      <workItem from="1561803489557" duration="957000" />
+      <workItem from="1561839387268" duration="68000" />
+      <workItem from="1561839624586" duration="228000" />
+      <workItem from="1561992397325" duration="207000" />
+      <workItem from="1562063420736" duration="51000" />
+      <workItem from="1562146365759" duration="4553000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestsMain_testeWhySoSimilar - 2019.06.26 at 11h 39m 35s.xml">
+      <configuration name="TestsMain.testeWhySoSimilar" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestsMain_testeWhySoSimilar - 2019.06.26 at 11h 39m 54s.xml">
+      <configuration name="TestsMain.testeWhySoSimilar" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestsMain_insertTest - 2019.06.26 at 11h 41m 42s.xml">
+      <configuration name="TestsMain.insertTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestsMain_testInsertTwice - 2019.06.26 at 11h 42m 47s.xml">
+      <configuration name="TestsMain.testInsertTwice" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestsMain - 2019.06.26 at 11h 43m 08s.xml">
+      <configuration name="TestsMain" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestsMain - 2019.06.29 at 21h 23m 59s.xml">
+      <configuration name="TestsMain" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestsMain - 2019.07.03 at 11h 16m 13s.xml">
+      <configuration name="TestsMain" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestsMain_testarTemaMusicaltoString - 2019.07.03 at 13h 14m 27s.xml">
+      <configuration name="TestsMain.testarTemaMusicaltoString" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestsMain_testarTemaMusicaltoString - 2019.07.03 at 13h 15m 13s.xml">
+      <configuration name="TestsMain.testarTemaMusicaltoString" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestsMain_testarTemaMusicaltoString - 2019.07.03 at 15h 03m 15s.xml">
+      <configuration name="TestsMain.testarTemaMusicaltoString" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="84246000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="50" y="27" width="1316" height="741" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.41338584" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34596375" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39868203" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3289689" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32784185" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32992125" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test-files/TestsMain.java" />
+    <entry file="file://$PROJECT_DIR$/src/pt/ulusofona/aed/songsExpert/TestRun.java" />
+    <entry file="file://$PROJECT_DIR$/src/TestsMain.java" />
+    <entry file="file://$PROJECT_DIR$/src/pt/ulusofona/aed/songsExpert/Artista.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ulusofona/aed/songsExpert/AuxObjects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="33" column="16" lean-forward="true" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="16" />
+          <folding>
+            <element signature="class#Similars#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ulusofona/aed/songsExpert/TestsMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="95" column="29" selection-start-line="95" selection-start-column="29" selection-end-line="95" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#testarCountSongs#0;class#TestsMain#0" />
+            <element signature="method#testarSongsWithoutYear#0;class#TestsMain#0" />
+            <element signature="method#testarArtistsManySongs#0;class#TestsMain#0" />
+            <element signature="method#testarSongsManyArtists#0;class#TestsMain#0" />
+            <element signature="method#testeRandomInput#0;class#TestsMain#0" />
+            <element signature="method#testarCountUniqueTitles#0;class#TestsMain#0" />
+            <element signature="method#testarSongsWithArtists#0;class#TestsMain#0" />
+            <element signature="method#testarSongsWithArtists2#0;class#TestsMain#0" />
+            <element signature="method#testarTopArtistsSongsInYear#0;class#TestsMain#0" />
+            <element signature="method#testarUniqueSongsByArtists#0;class#TestsMain#0" />
+            <element signature="method#testarArtistsWordsInTitle#0;class#TestsMain#0" />
+            <element signature="method#testarArtistsWithLocation#0;class#TestsMain#0" />
+            <element signature="method#testarNArtistsWithLocation#0;class#TestsMain#0" />
+            <element signature="method#testarNArtistsWithLocation2#0;class#TestsMain#0" />
+            <element signature="method#testarFrequentWordTitlesLength#0;class#TestsMain#0" />
+            <element signature="method#testarArtistMostUniqueSongsAno#0;class#TestsMain#0" />
+            <element signature="method#testarTopNSimilars#0;class#TestsMain#0" />
+            <element signature="method#testeWhySoSimilar#0;class#TestsMain#0" />
+            <element signature="method#testInsert#0;class#TestsMain#0" />
+            <element signature="method#testInsertTwice#0;class#TestsMain#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ulusofona/aed/songsExpert/TemaMusical.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pt/ulusofona/aed/songsExpert/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="155" column="41" lean-forward="true" selection-start-line="155" selection-start-column="41" selection-end-line="155" selection-end-column="41" />
+          <folding>
+            <element signature="method#selectionSort#0;class#Main#0" />
+            <element signature="method#selectionSortAno#0;class#Main#0" />
+            <element signature="method#selectionSortWordCounter#0;class#Main#0" />
+            <element signature="method#selectionSortSimilarCounter#0;class#Main#0" />
+            <element signature="method#leitura#0;class#Main#0" />
+            <element signature="method#cleanup#0;class#Main#0" />
+            <element signature="method#processaArtistas#0;class#Main#0" />
+            <element signature="e#7998#8323#1" />
+            <element signature="method#processaSemelhantes#0;class#Main#0" />
+            <element signature="method#processaMusicas#0;class#Main#0" />
+            <element signature="method#lerFicheiros#0;class#Main#0" />
+            <element signature="method#lerFicheiros#1;class#Main#0" />
+            <element signature="method#askTheExpert#0;class#Main#0" />
+            <element signature="e#13685#13736#1" />
+            <element signature="e#13794#14034#1" />
+            <element signature="e#14098#14465#1" />
+            <element signature="e#14973#15290#1" />
+            <element signature="e#15570#17211#1" />
+            <element signature="e#16905#18735#1" />
+            <element signature="e#18800#19945#1" />
+            <element signature="e#20021#20849#1" />
+            <element signature="e#20913#21968#1" />
+            <element signature="e#22034#23221#1" />
+            <element signature="e#23285#25443#1" />
+            <element signature="e#25506#27347#1" />
+            <element signature="e#27407#29263#1" />
+            <element signature="e#29317#31146#1" />
+            <element signature="e#31324#32223#1" />
+            <element signature="e#32273#33890#1" />
+            <element signature="e#33940#34590#1" />
+            <element signature="method#main#0;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
